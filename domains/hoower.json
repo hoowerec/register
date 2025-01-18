@@ -1,0 +1,12 @@
+{
+  "description": "Hoower.is-a.dev",
+  "repo": "https://github.com/hoowerec/hoowerec.github.io",
+  "owner": {
+    "username": "hoowerec",
+    "email": "gfeduardo@hotmail.com",
+    "discord": "edu"
+  },
+  "record": {
+    "CNAME": "hoowerec.github.io"
+  }
+}
